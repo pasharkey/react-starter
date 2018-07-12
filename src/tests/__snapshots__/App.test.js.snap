@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App has a valid snapshot 1`] = `
+<div>
+  <h1>
+    React Starter App
+  </h1>
+</div>
+`;
