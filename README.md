@@ -71,4 +71,4 @@ $ npm run build
 * Patrick Sharkey (patrick.sharkey@gmail.com)
 
 ## License
-MIT License. © 2017 Patrick Sharkey
+MIT License. © 2018 Patrick Sharkey
